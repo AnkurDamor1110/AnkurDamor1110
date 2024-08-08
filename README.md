@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankur Damor</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img src="/ef0936558e58d6bebf73fee2ae895fe3.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurdamor1110&label=Profile%20views&color=0e75b6&style=flat" alt="ankurdamor1110" /> </p>
+<p align="left"> <img align="right" alt="Coding" width="400" src="https://komarev.com/ghpvc/?username=ankurdamor1110&label=Profile%20views&color=0e75b6&style=flat" alt="ankurdamor1110" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
